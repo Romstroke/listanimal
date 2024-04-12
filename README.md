@@ -10,7 +10,7 @@ Para clonar este proyecto en tu pc, ejecuta el siguiente comando en tu consola d
 ```
 ## O también puedes visitar su enlace de GitHub pages en tu navegador!!!
 
-[Click aquí para desplegar el proyecto] (https://romstroke.github.io/listanimal/)
+[Click aquí para desplegar el proyecto](https://romstroke.github.io/listanimal/)
 
 
 ## Proyecto realizado por:
