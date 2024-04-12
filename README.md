@@ -6,7 +6,7 @@ Para clonar este proyecto en tu pc, ejecuta el siguiente comando en tu consola d
 (procura estar en la ruta correcta de la carpeta en donde quieres clonarlo):
 
 ```bash
-# git clone https://github.com/Romstroke/listanimal.git
+git clone https://github.com/Romstroke/listanimal.git
 ```
 ## O también puedes visitar su enlace de GitHub pages en tu navegador!!!
 
